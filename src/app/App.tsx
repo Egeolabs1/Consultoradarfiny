@@ -442,13 +442,13 @@ Email: ${formData.email}`;
                   WhatsApp
                 </a>
                 <a
-                  href="https://instagram.com/darfinyavila"
+                  href="https://instagram.com/consultora.darfiny"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center text-gray-400 hover:text-green-400 transition-colors text-sm"
                 >
                   <Instagram className="h-4 w-4 mr-2" />
-                  @darfinyavila
+                  @consultora.darfiny
                 </a>
                 <a
                   href="mailto:contato@darfinyavila.com.br"
