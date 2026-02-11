@@ -302,7 +302,7 @@ Email: ${formData.email}`;
                   />
                   <div>
                     <h4 className="text-gray-900">Mariana e Carlos</h4>
-                    <p className="text-sm text-gray-600">São Paulo, SP</p>
+                    <p className="text-sm text-gray-600">Rio de Janeiro, RJ</p>
                   </div>
                 </div>
                 <p className="text-gray-700 italic leading-relaxed">
@@ -326,7 +326,7 @@ Email: ${formData.email}`;
                   />
                   <div>
                     <h4 className="text-gray-900">Família Silva</h4>
-                    <p className="text-sm text-gray-600">Guarulhos, SP</p>
+                    <p className="text-sm text-gray-600">Rio de Janeiro, RJ</p>
                   </div>
                 </div>
                 <p className="text-gray-700 italic leading-relaxed">
@@ -350,7 +350,7 @@ Email: ${formData.email}`;
                   />
                   <div>
                     <h4 className="text-gray-900">Juliana Mendes</h4>
-                    <p className="text-sm text-gray-600">Osasco, SP</p>
+                    <p className="text-sm text-gray-600">Rio de Janeiro, RJ</p>
                   </div>
                 </div>
                 <p className="text-gray-700 italic leading-relaxed">
