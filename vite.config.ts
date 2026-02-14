@@ -16,15 +16,6 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  server: {
-    proxy: {
-      '/bio': {
-        target: 'https://crm.darfinyavila.com.br/bio',
-        changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/bio/, ''),
-      },
-    },
-  },
 
   // File types to support raw imports. Never add .css, .tsx, or .ts files to this.
   assetsInclude: ['**/*.svg', '**/*.csv'],

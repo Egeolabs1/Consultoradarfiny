@@ -1,9 +1,12 @@
 {
-    "rewrites": [
+    "redirects": [
         {
             "source": "/bio",
-            "destination": "https://crm.darfinyavila.com.br/bio"
-        },
+            "destination": "https://crm.darfinyavila.com.br/bio",
+            "permanent": false
+        }
+    ],
+    "rewrites": [
         {
             "source": "/(.*)",
             "destination": "/index.html"
