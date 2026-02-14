@@ -13,7 +13,11 @@
             "destination": "https://crm.darfinyavila.com.br/assets/$1"
         },
         {
-            "source": "/((?!bio|assets).*)",
+            "source": "/api/og",
+            "destination": "https://crm.darfinyavila.com.br/api/og"
+        },
+        {
+            "source": "/((?!bio|assets|api).*)",
             "destination": "/index.html"
         }
     ]
