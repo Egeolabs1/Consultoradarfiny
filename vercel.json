@@ -2,11 +2,11 @@
     "rewrites": [
         {
             "source": "/bio",
-            "destination": "https://crm.darfinyavila.com.br/index.html"
+            "destination": "https://crm.darfinyavila.com.br/api/bio"
         },
         {
             "source": "/bio/",
-            "destination": "https://crm.darfinyavila.com.br/index.html"
+            "destination": "https://crm.darfinyavila.com.br/api/bio"
         },
         {
             "source": "/assets/(.*)",
