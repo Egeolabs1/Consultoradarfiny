@@ -9,7 +9,11 @@
             "destination": "https://crm.darfinyavila.com.br/index.html"
         },
         {
-            "source": "/((?!bio).*)",
+            "source": "/assets/(.*)",
+            "destination": "https://crm.darfinyavila.com.br/assets/$1"
+        },
+        {
+            "source": "/((?!bio|assets).*)",
             "destination": "/index.html"
         }
     ]
